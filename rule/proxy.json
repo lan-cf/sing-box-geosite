@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "deepl.com",
+        "poe.com",
+        "revanced.net"
+      ]
+    }
+  ],
+  "version": 2
+}
